@@ -13,7 +13,7 @@
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
 		},
-		"traaMainBase": {
+		"TraaMainBase": {
 			"name": "TraaMainBase.png",
 			"x": 1207,
 			"y": 848,
