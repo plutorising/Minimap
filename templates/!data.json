@@ -344,6 +344,15 @@
 			"height": 185,
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
+		},
+		"traaMainBase": {
+			"name": "TraaMainBase.png",
+			"x": 1207,
+			"y": 848,
+			"width": 486,
+			"height": 221,
+			"categories": ["pixeltraa"],
+			"aliases": ["traamainbase", "pixeltraabase"]
 		}
 	}
 }
