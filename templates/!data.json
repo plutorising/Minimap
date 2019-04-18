@@ -1,14 +1,6 @@
 {
 	"Categories": [
-		["Abyss", "abyss"],
-		["AmethystKingdom", "amethyst"],
-		["Britain", "britain"],
-		["Misc", "misc"],
-		["PixelBerry", "pixelberry"],
-		["PixelEarth", "pixelearth"],
 		["RedPixel", "redpixel"],
-		["SpaceCanvas", "spacecanvas"],
-		["Vapu", "vapu"],
 		["PixelTraa", "pixeltraa"]
 	],
 	"Templates": {
