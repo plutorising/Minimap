@@ -334,6 +334,15 @@
 			"height": 697,
 			"categories": ["pixelearth"],
 			"aliases": ["PixelEarth", "Europe"]
+		},
+		"ufo": {
+			"name": "ufo.png",
+			"x": 337,
+			"y": -102,
+			"width": 146,
+			"height": 185,
+			"categories": ["redpixel"],
+			"aliases": ["ufo", "ufomarx"]
 		}
 	}
 }
