@@ -21,6 +21,15 @@
 			"height": 221,
 			"categories": ["pixeltraa"],
 			"aliases": ["traamainbase", "pixeltraabase"]
+		},
+		"pixelgrad": {
+			"name": "pixelgrad.png",
+			"x": -721,
+			"y": -1034,
+			"width": 938,
+			"height": 785,
+			"categories": ["redpixel"],
+			"aliases": ["pixelgrad"]
 		}
 	}
 }
