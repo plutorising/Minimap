@@ -48,6 +48,15 @@
 			"height": 334,
 			"categories": ["redpixel"],
 			"aliases": ["rainbow", "rainbow base", "rb"]
+		},
+		"Black Base": {
+			"name": "bb.png",
+			"x": 4670,
+			"y": 3738,
+			"width": 1337,
+			"height": 637,
+			"categories": ["redpixel"],
+			"aliases": ["black base", "bb"]
 		}
 	}
 }
