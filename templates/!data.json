@@ -39,6 +39,15 @@
 			"height": 1434,
 			"categories": ["redpixel"],
 			"aliases": ["redmenace", "red menace", "bixelgrad"]
+		},
+		"rainbow base": {
+			"name": "rb_large.png",
+			"x": 2522,
+			"y": -3700,
+			"width": 511,
+			"height": 334,
+			"categories": ["redpixel"],
+			"aliases": ["rainbow", "rainbow base", "rb"]
 		}
 	}
 }
