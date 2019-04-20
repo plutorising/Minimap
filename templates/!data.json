@@ -112,6 +112,15 @@
 			"height": 121,
 			"categories": ["misc"],
 			"aliases": ["vedic", "vedicsquare"]
+		},
+		"felixart": {
+			"name": "felixart1.png",
+			"x": -137,
+			"y": -249,
+			"width": 282,
+			"height": 134,
+			"categories": ["misc"],
+			"aliases": ["birds", "butterfly", "phoenix"]
 		}
 	}
 }
