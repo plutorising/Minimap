@@ -121,6 +121,15 @@
 			"height": 111,
 			"categories": ["misc"],
 			"aliases": ["pepe", "inverted"]
+		},
+		"hamsikpepes": {
+			"name": "hamsikpepes.png",
+			"x": -2111,
+			"y": 2833,
+			"width": 87,
+			"height": 79,
+			"categories": ["redpixel"],
+			"aliases": ["pepes", "hamsik"]
 		}
 	}
 }
