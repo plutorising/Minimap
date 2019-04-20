@@ -75,6 +75,15 @@
 			"height": 215,
 			"categories": ["pixeltraa"],
 			"aliases": ["eastEnd", "east"]
+		},
+		"transDiamond": {
+			"name": "transDiamond.png",
+			"x": -108,
+			"y": -108,
+			"width": 217,
+			"height": 217,
+			"categories": ["pixeltraa"],
+			"aliases": ["transDiamond", "diamond"]
 		}
 	}
 }
