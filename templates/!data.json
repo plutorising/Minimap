@@ -23,15 +23,6 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["traamainbase", "pixeltraabase"]
 		},
-		"pixelgrad": {
-			"name": "pixelgrad.png",
-			"x": -721,
-			"y": -1034,
-			"width": 938,
-			"height": 785,
-			"categories": ["redpixel"],
-			"aliases": ["pixelgrad"]
-		},
 		"redmenace": {
 			"name": "redmenace.png",
 			"x": -2808,
@@ -112,6 +103,15 @@
 			"height": 143,
 			"categories": ["misc"],
 			"aliases": ["birds", "butterfly", "phoenix"]
+		},
+		"pixelgrad": {
+			"name": "pixelgrad.png",
+			"x": -721,
+			"y": -1034,
+			"width": 938,
+			"height": 785,
+			"categories": ["redpixel"],
+			"aliases": ["pixelgrad"]
 		}
 	}
 }
