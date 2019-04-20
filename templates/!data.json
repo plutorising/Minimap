@@ -2,6 +2,7 @@
 	"Categories": [
 		["RedPixel", "redpixel"],
 		["PixelTraa", "pixeltraa"]
+		["Misc", "misc"]
 	],
 	"Templates": {
 		"ufo": {
@@ -84,6 +85,15 @@
 			"height": 217,
 			"categories": ["pixeltraa"],
 			"aliases": ["transDiamond", "diamond"]
+		},
+		"felixart": {
+			"name": "felixart1.png",
+			"x": -137,
+			"y": -258,
+			"width": 282,
+			"height": 143,
+			"categories": ["misc"],
+			"aliases": ["birds", "butterfly", "phoenix"]
 		}
 	}
 }
