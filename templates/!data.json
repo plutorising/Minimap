@@ -94,6 +94,15 @@
 			"height": 143,
 			"categories": ["misc"],
 			"aliases": ["birds", "butterfly", "phoenix"]
+		},
+		"216": {
+			"name": "216.png",
+			"x": 270,
+			"y": 5721,
+			"width": 400,
+			"height": 400,
+			"categories": ["misc"],
+			"aliases": ["216"]
 		}
 	}
 }
