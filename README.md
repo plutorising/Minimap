@@ -7,4 +7,4 @@
 * ![](https://raw.githubusercontent.com/reek/anti-adblock-killer/gh-pages/images/msedge.png) [Tampermonkey](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s)
 
 #### Step 2: Install Userscript
-Click link to install: [Download](https://github.com/plutorising/Minimap/raw/master/minimap.pub.user.js) 
+Click link to install: [Download](https://github.com/plutorising/Minimap/raw/master/minimap.pub.user.js)
