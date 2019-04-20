@@ -103,6 +103,15 @@
 			"height": 400,
 			"categories": ["misc"],
 			"aliases": ["216"]
+		},
+		"vedic": {
+			"name": "vedic.png",
+			"x": 695,
+			"y": 5900,
+			"width": 121,
+			"height": 121,
+			"categories": ["misc"],
+			"aliases": ["vedic", "vedicsquare"]
 		}
 	}
 }
