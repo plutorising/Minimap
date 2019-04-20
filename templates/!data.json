@@ -107,9 +107,9 @@
 		"felixart1": {
 			"name": "felixart1.png",
 			"x": -137,
-			"y": -249,
+			"y": -258,
 			"width": 282,
-			"height": 134,
+			"height": 143,
 			"categories": ["misc"],
 			"aliases": ["birds", "butterfly", "phoenix"]
 		}
