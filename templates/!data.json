@@ -86,15 +86,6 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["transDiamond", "diamond"]
 		},
-		"felixart": {
-			"name": "felixart1.png",
-			"x": -137,
-			"y": -249,
-			"width": 282,
-			"height": 134,
-			"categories": ["misc"],
-			"aliases": ["birds", "butterfly", "phoenix"]
-		},
 		"216": {
 			"name": "216.png",
 			"x": 270,
