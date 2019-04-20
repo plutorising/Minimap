@@ -112,6 +112,15 @@
 			"height": 785,
 			"categories": ["redpixel"],
 			"aliases": ["pixelgrad"]
+		},
+		"invertedpepe": {
+			"name": "invertedpepe.png",
+			"x": -2452,
+			"y": 2811,
+			"width": 124,
+			"height": 111,
+			"categories": ["misc"],
+			"aliases": ["pepe", "inverted"]
 		}
 	}
 }
