@@ -8,3 +8,10 @@
 
 #### Step 2: Install Userscript
 Click link to install: [Download](https://github.com/plutorising/Minimap/raw/master/minimap.pub.user.js)
+
+## Templates
+
+### Redpixel
+
+#### pixelgrad
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/pixelgrad.png)](https://pixelcanvas.io/@-462,-571)
