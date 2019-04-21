@@ -36,4 +36,7 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 #### northernAnnex
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/northernAnnex.png)](https://pixelcanvas.io/@1435,766)
 
+#### eastEnd
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/eastEnd.png)](https://pixelcanvas.io/@1973,987)
+
 
