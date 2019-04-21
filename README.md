@@ -20,7 +20,7 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/redmenace.png)](https://pixelcanvas.io/@-1994,3810)
 
 #### Black Base
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/bb.png)](https://pixelcanvas.io/@5339,4057)
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/Black%20Base.png)](https://pixelcanvas.io/@5339,4057)
 
 #### rainbow base
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/rainbow%20base.png)](https://pixelcanvas.io/@2778,-3533)
