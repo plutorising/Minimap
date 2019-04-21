@@ -130,6 +130,15 @@
 			"height": 79,
 			"categories": ["redpixel"],
 			"aliases": ["pepes", "hamsik"]
+		},
+		"outpost": {
+			"name": "outpost.png",
+			"x": 138865,
+			"y": -23009,
+			"width": 849,
+			"height": 1038,
+			"categories": ["pixeltraa"],
+			"aliases": ["outpost"]
 		}
 	}
 }
