@@ -21,3 +21,6 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 
 #### Black Base
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/bb.png)](https://pixelcanvas.io/@5339,4057)
+
+#### rainbow base
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/rb_large.png)](https://pixelcanvas.io/@2778,-3533)
