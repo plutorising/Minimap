@@ -28,7 +28,7 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 #### ufo
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/ufo.png)](https://pixelcanvas.io/@410,-9)
 
-### Category: PixelTraa
+## Category: PixelTraa
 
 #### TraaMainBase
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/TraaMainBase.png)](https://pixelcanvas.io/@1450,959)
