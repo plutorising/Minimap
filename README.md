@@ -9,6 +9,9 @@
 ## Step 2: Install Userscript
 Click link to install: [Download](https://github.com/plutorising/Minimap/raw/master/minimap.pub.user.js)
 
+## Step 2: Install Userscript
+When the minimap is installed be sure to check the template categories in settings. Otherwise the templates wont show on the map. Enjoy!
+
 # Templates
 
 ## Category: Redpixel
