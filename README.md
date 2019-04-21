@@ -25,8 +25,7 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 #### rainbow base
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/rainbow%20base.png)](https://pixelcanvas.io/@2778,-3533)
 
-#### ufo
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/ufo.png)](https://pixelcanvas.io/@410,-9)
+
 
 ## Category: PixelTraa
 
