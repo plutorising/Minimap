@@ -16,5 +16,5 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 #### pixelgrad
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/pixelgrad.png)](https://pixelcanvas.io/@-462,-571)
 
-#### pixelgrad
+#### redmenace
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/redmenace.png)](https://pixelcanvas.io/@-1994,3810)
