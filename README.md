@@ -11,7 +11,7 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 
 ## Templates
 
-### Redpixel
+### Category: Redpixel
 
 #### pixelgrad
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/pixelgrad.png)](https://pixelcanvas.io/@-462,-571)
@@ -28,9 +28,12 @@ Click link to install: [Download](https://github.com/plutorising/Minimap/raw/mas
 #### ufo
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/ufo.png)](https://pixelcanvas.io/@410,-9)
 
-### PixelTraa
+### Category: PixelTraa
 
 #### TraaMainBase
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/TraaMainBase.png)](https://pixelcanvas.io/@1450,959)
+
+#### northernAnnex
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/northernAnnex.png)](https://pixelcanvas.io/@1435,766)
 
 
