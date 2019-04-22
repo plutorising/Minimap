@@ -139,6 +139,15 @@
 			"height": 1038,
 			"categories": ["pixeltraa"],
 			"aliases": ["outpost"]
+		},
+		"parrot": {
+			"name": "parrot.png",
+			"x": -33,
+			"y": -148,
+			"width": 60,
+			"height": 40,
+			"categories": ["misc"],
+			"aliases": ["parrot"]
 		}
 	}
 }
