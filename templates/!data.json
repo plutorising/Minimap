@@ -23,21 +23,12 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["traamainbase", "pixeltraabase"]
 		},
-		"crew": {
-			"name": "crew.png",
-			"x": -2111,
-			"y": 3033,
-			"width": 99,
-			"height": 114,
-			"categories": ["redpixel"],
-			"aliases": ["crew"]
-		},
 		"redmenace": {
 			"name": "redmenace.png",
-			"x": -2808,
-			"y": 3093,
-			"width": 1628,
-			"height": 1434,
+			"x": -3251,
+			"y": 2748,
+			"width": 2342,
+			"height": 1955,
 			"categories": ["redpixel"],
 			"aliases": ["redmenace", "red menace", "bixelgrad"]
 		},
@@ -139,15 +130,6 @@
 			"height": 111,
 			"categories": ["misc"],
 			"aliases": ["pepe", "inverted"]
-		},
-		"hamsikpepes": {
-			"name": "hamsikpepes.png",
-			"x": -2111,
-			"y": 2833,
-			"width": 87,
-			"height": 79,
-			"categories": ["redpixel"],
-			"aliases": ["pepes", "hamsik"]
 		},
 		"outpost": {
 			"name": "outpost.png",
