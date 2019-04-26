@@ -42,6 +42,6 @@ When the minimap is installed be sure to check the template categories in settin
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/eastEnd.png)](https://pixelcanvas.io/@1973,987)
 
 #### outpost
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/outpost.png)](https://pixelcanvas.io/@139290,-22490)
+[![](https://github.com/plutorising/Minimap/blob/master/templates/outpost.png)](https://pixelcanvas.io/@139290,-22490)
 
 
