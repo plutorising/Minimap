@@ -23,6 +23,15 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["traamainbase", "pixeltraabase"]
 		},
+		"crew": {
+			"name": "crew.png",
+			"x": -2111,
+			"y": 3033,
+			"width": 99,
+			"height": 114,
+			"categories": ["redpixel"],
+			"aliases": ["crew"]
+		},
 		"redmenace": {
 			"name": "redmenace.png",
 			"x": -2808,
@@ -157,15 +166,6 @@
 			"height": 50,
 			"categories": ["redpixel"],
 			"aliases": ["cnt", "fai"]
-		},
-		"crew": {
-			"name": "crew.png",
-			"x": -2111,
-			"y": 3033,
-			"width": 99,
-			"height": 114,
-			"categories": ["redpixel"],
-			"aliases": ["crew"]
 		}
 	}
 }
