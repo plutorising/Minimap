@@ -148,6 +148,15 @@
 			"height": 50,
 			"categories": ["redpixel"],
 			"aliases": ["cnt", "fai"]
+		},
+		"ratrix": {
+			"name": "ratrix.png",
+			"x": -443,
+			"y": -242,
+			"width": 92,
+			"height": 92,
+			"categories": ["redpixel"],
+			"aliases": ["ratrix", "rose"]
 		}
 	}
 }
