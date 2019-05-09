@@ -157,6 +157,15 @@
 			"height": 92,
 			"categories": ["redpixel"],
 			"aliases": ["ratrix", "rose"]
+		},
+                "prideflags": {
+			"name": "prideFlags.png",
+			"x": 1380,
+			"y": -90,
+			"width": 287,
+			"height": 60,
+			"categories": ["pixeltraa"],
+			"aliases": ["pride", "pride flags"]
 		}
 	}
 }
