@@ -61,10 +61,10 @@
 		},
 		"eastEnd": {
 			"name": "eastEnd.png",
-			"x": 1632,
-			"y": 879,
-			"width": 682,
-			"height": 215,
+			"x": 1604,
+			"y": 863,
+			"width": 709,
+			"height": 267,
 			"categories": ["pixeltraa"],
 			"aliases": ["eastEnd", "east"]
 		},
