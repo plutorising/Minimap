@@ -44,4 +44,5 @@ When the minimap is installed be sure to check the template categories in settin
 #### outpost
 [![](https://github.com/plutorising/Minimap/blob/master/templates/outpost.png)](https://pixelcanvas.io/@139290,-22490)
 
-
+### prideFlags
+[![](https://github.com/plutorising/Minimap/blob/master/templates/prideFlags.png)](https://pixelcanvas.io/@1542,-40)
