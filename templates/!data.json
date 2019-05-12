@@ -166,6 +166,15 @@
 			"height": 129,
 			"categories": ["pixeltraa"],
 			"aliases": ["pride", "prideflags"]
+		},
+		"greaterpixelgrad": {
+			"name": "greaterpixelgrad.png",
+			"x": 7365,
+			"y": -5061,
+			"width": 1287,
+			"height": 1173,
+			"categories": ["redpixel"],
+			"aliases": ["gp"]
 		}
 	}
 }
