@@ -175,6 +175,15 @@
 			"height": 1173,
 			"categories": ["redpixel"],
 			"aliases": ["gp"]
+		},
+                "farEast": {
+			"name": "farEast.png",
+			"x": 2290,
+			"y": 858,
+			"width": 406,
+			"height": 128,
+			"categories": ["pixeltraa"],
+			"aliases": ["fareast"]
 		}
 	}
 }
