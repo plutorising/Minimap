@@ -158,7 +158,7 @@
 			"categories": ["redpixel"],
 			"aliases": ["ratrix", "rose"]
 		},
-                "prideflags": {
+                "prideFlags": {
 			"name": "prideFlags.png",
 			"x": 1343,
 			"y": -90,
