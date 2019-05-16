@@ -133,10 +133,10 @@
 		},
 		"outpost": {
 			"name": "outpost.png",
-			"x": 138865,
+			"x": 138205,
 			"y": -23009,
-			"width": 1221,
-			"height": 1198,
+			"width": 1770,
+			"height": 1260,
 			"categories": ["pixeltraa"],
 			"aliases": ["outpost"]
 		},
