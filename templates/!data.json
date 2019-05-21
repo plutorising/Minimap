@@ -184,24 +184,6 @@
 			"height": 128,
 			"categories": ["pixeltraa"],
 			"aliases": ["fareast"]
-		},
-		"gay": {
-			"name": "gay.png",
-			"x": -2506,
-			"y": 3280,
-			"width": 158,
-			"height": 51,
-			"categories": ["misc"],
-			"aliases": ["penis"]
-		},
-		"dan": {
-			"name": "dan.png",
-			"x": -2796,
-			"y": 3047,
-			"width": 93,
-			"height": 88,
-			"categories": ["misc"],
-			"aliases": ["danathan"]
 		}
 	}
 }
