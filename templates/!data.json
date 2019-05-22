@@ -14,14 +14,14 @@
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
 		},
-		"TraaMainBase": {
-			"name": "TraaMainBase.png",
+		"MainBase": {
+			"name": "mainBase.png",
 			"x": 1207,
 			"y": 848,
 			"width": 486,
 			"height": 221,
 			"categories": ["pixeltraa"],
-			"aliases": ["traamainbase", "pixeltraabase"]
+			"aliases": ["mainbase", "pixeltraabase"]
 		},
 		"redmenace": {
 			"name": "redmenace.png",
@@ -135,7 +135,7 @@
 			"name": "outpost.png",
 			"x": 138316,
 			"y": -23009,
-			"width": 1770,
+			"width": 1817,
 			"height": 1260,
 			"categories": ["pixeltraa"],
 			"aliases": ["outpost"]
