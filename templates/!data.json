@@ -115,10 +115,10 @@
 		},
 		"pixelgrad": {
 			"name": "pixelgrad.png",
-			"x": -721,
+			"x": -900,
 			"y": -1034,
-			"width": 968,
-			"height": 785,
+			"width": 1147,
+			"height": 928,
 			"categories": ["redpixel"],
 			"aliases": ["pixelgrad"]
 		},
