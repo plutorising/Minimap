@@ -122,14 +122,14 @@
 			"categories": ["redpixel"],
 			"aliases": ["pixelgrad"]
 		},
-		"invertedpepe": {
-			"name": "invertedpepe.png",
-			"x": -2452,
-			"y": 2811,
-			"width": 124,
-			"height": 111,
+		"kuk": {
+			"name": "kuk.png",
+			"x": -3677,
+			"y": 2762,
+			"width": 1566,
+			"height": 859,
 			"categories": ["misc"],
-			"aliases": ["pepe", "inverted"]
+			"aliases": ["kukistan"]
 		},
 		"outpost": {
 			"name": "outpost.png",
