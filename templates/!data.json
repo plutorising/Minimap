@@ -14,7 +14,7 @@
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
 		},
-		"MainBase": {
+		"mainBase": {
 			"name": "mainBase.png",
 			"x": 1207,
 			"y": 848,
