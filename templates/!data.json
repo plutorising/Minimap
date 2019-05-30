@@ -5,6 +5,15 @@
 		["Misc", "misc"]
 	],
 	"Templates": {
+                "traaCenter": {
+                        "name": "traaCenter.png",
+                        "x": -1260,
+                        "y": -812,
+                        "width": 426,
+                        "height": 390,   
+                        "categories": ["pixeltraa"],
+                        "aliases": ["traaCenter","stevonnie"] 
+                },
 		"ufo": {
 			"name": "ufo.png",
 			"x": 337,
