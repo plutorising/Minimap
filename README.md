@@ -33,7 +33,7 @@ When the minimap is installed be sure to check the template categories in settin
 ## Category: PixelTraa
 
 #### TraaMainBase
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/TraaMainBase.png)](https://pixelcanvas.io/@1450,959)
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/mainBase.png)](https://pixelcanvas.io/@1450,959)
 
 #### northernAnnex
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/northernAnnex.png)](https://pixelcanvas.io/@1435,766)
