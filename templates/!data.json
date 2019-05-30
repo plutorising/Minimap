@@ -21,7 +21,7 @@
 			"width": 486,
 			"height": 221,
 			"categories": ["pixeltraa"],
-			"aliases": ["MainBase", "traa mainbase"]
+			"aliases": ["TraaMainBase"]
 		},
 		"redmenace": {
 			"name": "redmenace.png",
