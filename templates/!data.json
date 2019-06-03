@@ -133,9 +133,9 @@
 		},
 		"kuk": {
 			"name": "kuk.png",
-			"x": -3677,
+			"x": -3687,
 			"y": 2762,
-			"width": 1566,
+			"width": 1576,
 			"height": 859,
 			"categories": ["misc"],
 			"aliases": ["kukistan"]
