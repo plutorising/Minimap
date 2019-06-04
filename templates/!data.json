@@ -79,10 +79,10 @@
 		},
 		"transDiamond": {
 			"name": "transDiamond.png",
-			"x": -108,
-			"y": -108,
-			"width": 217,
-			"height": 217,
+			"x": -107,
+			"y": -107,
+			"width": 215,
+			"height": 215,
 			"categories": ["pixeltraa"],
 			"aliases": ["transDiamond", "diamond"]
 		},
