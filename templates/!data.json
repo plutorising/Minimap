@@ -52,9 +52,9 @@
 		},
 		"Black Base": {
 			"name": "Black Base.png",
-			"x": 4670,
+			"x": 4634,
 			"y": 3738,
-			"width": 1337,
+			"width": 1373,
 			"height": 637,
 			"categories": ["redpixel"],
 			"aliases": ["black base", "bb"]
