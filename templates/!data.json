@@ -59,6 +59,15 @@
 			"categories": ["redpixel"],
 			"aliases": ["black base", "bb"]
 		},
+		"redbase": {
+			"name": "redbase.png",
+			"x": 7290,
+			"y": 1739,
+			"width": 690,
+			"height": 534,
+			"categories": ["redpixel"],
+			"aliases": ["red base"]
+		},
 		"northernAnnex": {
 			"name": "northernAnnex.png",
 			"x": 1289,
