@@ -176,6 +176,15 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["pride", "prideflags"]
 		},
+                "sevenPointed": {
+			"name": "sevenPointed.png",
+			"x": -8589,
+			"y": 11817,
+			"width": 77,
+			"height": 77,
+			"categories": ["pixeltraa"],
+			"aliases": ["sevenpointed"]
+		},
 		"greaterpixelgrad": {
 			"name": "greaterpixelgrad.png",
 			"x": 7365,
