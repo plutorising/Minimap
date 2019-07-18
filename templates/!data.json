@@ -23,15 +23,6 @@
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
 		},
-		"mainBase": {
-			"name": "mainBase.png",
-			"x": 1207,
-			"y": 848,
-			"width": 486,
-			"height": 221,
-			"categories": ["pixeltraa"],
-			"aliases": ["TraaMainBase"]
-		},
 		"redmenace": {
 			"name": "redmenace.png",
 			"x": -3251,
@@ -67,24 +58,6 @@
 			"height": 534,
 			"categories": ["redpixel"],
 			"aliases": ["red base"]
-		},
-		"northernAnnex": {
-			"name": "northernAnnex.png",
-			"x": 1289,
-			"y": 687,
-			"width": 306,
-			"height": 172,
-			"categories": ["pixeltraa"],
-			"aliases": ["northernAnnex", "north"]
-		},
-		"eastEnd": {
-			"name": "eastEnd.png",
-			"x": 1604,
-			"y": 863,
-			"width": 709,
-			"height": 267,
-			"categories": ["pixeltraa"],
-			"aliases": ["eastEnd", "east"]
 		},
 		"transDiamond": {
 			"name": "transDiamond.png",
@@ -149,6 +122,15 @@
 			"categories": ["misc"],
 			"aliases": ["kukistan"]
 		},
+		"traaMainBase": {
+			"name": "traaMainBase.png",
+			"x": 1207,
+			"y": 639,
+			"width": 1489,
+			"height": 491,
+			"categories": ["pixeltraa"],
+			"aliases": ["mainBase", "main", "traa"]
+		},
 		"outpost": {
 			"name": "outpost.png",
 			"x": 136175,
@@ -193,15 +175,6 @@
 			"height": 1173,
 			"categories": ["redpixel"],
 			"aliases": ["gp"]
-		},
-                "farEast": {
-			"name": "farEast.png",
-			"x": 2290,
-			"y": 858,
-			"width": 406,
-			"height": 128,
-			"categories": ["pixeltraa"],
-			"aliases": ["fareast"]
 		},
 		"credits": {
 			"name": "credits.png",
