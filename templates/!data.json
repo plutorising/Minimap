@@ -23,15 +23,6 @@
 			"categories": ["redpixel"],
 			"aliases": ["ufo", "ufomarx"]
 		},
-		"mainBase": {
-			"name": "mainBase.png",
-			"x": 1207,
-			"y": 848,
-			"width": 486,
-			"height": 221,
-			"categories": ["pixeltraa"],
-			"aliases": ["TraaMainBase"]
-		},
 		"redmenace": {
 			"name": "redmenace.png",
 			"x": -3251,
@@ -51,7 +42,7 @@
 			"aliases": ["rainbow", "rainbow base", "rb"]
 		},
 		"Black Base": {
-			"name": "bb.png",
+			"name": "Black Base.png",
 			"x": 4634,
 			"y": 3738,
 			"width": 1373,
@@ -59,23 +50,14 @@
 			"categories": ["redpixel"],
 			"aliases": ["black base", "bb"]
 		},
-		"northernAnnex": {
-			"name": "northernAnnex.png",
-			"x": 1289,
-			"y": 687,
-			"width": 306,
-			"height": 172,
-			"categories": ["pixeltraa"],
-			"aliases": ["northernAnnex", "north"]
-		},
-		"eastEnd": {
-			"name": "eastEnd.png",
-			"x": 1604,
-			"y": 863,
-			"width": 709,
-			"height": 267,
-			"categories": ["pixeltraa"],
-			"aliases": ["eastEnd", "east"]
+		"redbase": {
+			"name": "redbase.png",
+			"x": 7290,
+			"y": 1739,
+			"width": 690,
+			"height": 534,
+			"categories": ["redpixel"],
+			"aliases": ["red base"]
 		},
 		"transDiamond": {
 			"name": "transDiamond.png",
@@ -134,18 +116,27 @@
 		"kuk": {
 			"name": "kuk.png",
 			"x": -3687,
-			"y": 2762,
+			"y": 2746,
 			"width": 1576,
-			"height": 859,
+			"height": 1003,
 			"categories": ["misc"],
 			"aliases": ["kukistan"]
 		},
+		"traaMainBase": {
+			"name": "traaMainBase.png",
+			"x": 1207,
+			"y": 639,
+			"width": 1489,
+			"height": 491,
+			"categories": ["pixeltraa"],
+			"aliases": ["mainBase", "main", "traa"]
+		},
 		"outpost": {
 			"name": "outpost.png",
-			"x": 138316,
-			"y": -23044,
-			"width": 1817,
-			"height": 1295,
+			"x": 136175,
+			"y": -23439,
+			"width": 4481,
+			"height": 1800,
 			"categories": ["pixeltraa"],
 			"aliases": ["outpost"]
 		},
@@ -167,6 +158,15 @@
 			"categories": ["pixeltraa"],
 			"aliases": ["pride", "prideflags"]
 		},
+                "sevenPointed": {
+			"name": "sevenPointed.png",
+			"x": -8589,
+			"y": 11817,
+			"width": 77,
+			"height": 77,
+			"categories": ["pixeltraa"],
+			"aliases": ["sevenpointed"]
+		},
 		"greaterpixelgrad": {
 			"name": "greaterpixelgrad.png",
 			"x": 7365,
@@ -175,15 +175,6 @@
 			"height": 1173,
 			"categories": ["redpixel"],
 			"aliases": ["gp"]
-		},
-                "farEast": {
-			"name": "farEast.png",
-			"x": 2290,
-			"y": 858,
-			"width": 406,
-			"height": 128,
-			"categories": ["pixeltraa"],
-			"aliases": ["fareast"]
 		},
 		"credits": {
 			"name": "credits.png",
@@ -211,6 +202,15 @@
 			"height": 126,
 			"categories": ["misc"],
 			"aliases": ["finnish"]
+		},
+		"rm_america": {
+			"name": "rm_america.png",
+			"x": -10300,
+			"y": 4800,
+			"width": 506,
+			"height": 339,
+			"categories": ["redpixel"],
+			"aliases": ["rm_america", "america"]
 		}
 	}
 }
