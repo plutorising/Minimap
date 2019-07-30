@@ -214,10 +214,10 @@
 		},
 		"friendship": {
 			"name": "friendship.png",
-			"x": 627,
+			"x": 569,
 			"y": 358,
-			"width": 100,
-			"height": 100,
+			"width": 283,
+			"height": 198,
 			"categories": ["misc"],
 			"aliases": ["friendship"]
 		}
