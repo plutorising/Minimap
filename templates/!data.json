@@ -212,6 +212,15 @@
 			"categories": ["redpixel"],
 			"aliases": ["rm_america", "america"]
 		},
+		"ironcorpse": {
+			"name": "ironcorpse.png",
+			"x": -1558,
+			"y": 1235,
+			"width": 79,
+			"height": 97,
+			"categories": ["redpixel"],
+			"aliases": ["ironcorpse", "iron", "corpse"]
+		},
 		"friendship": {
 			"name": "friendship.png",
 			"x": 569,
