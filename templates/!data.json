@@ -2,6 +2,7 @@
 	"Categories": [
 		["RedPixel", "redpixel"],
 		["PixelTraa", "pixeltraa"],
+		["Kukistan", "kuk"],
 		["Misc", "misc"]
 	],
 	"Templates": {
@@ -14,15 +15,6 @@
                         "categories": ["pixeltraa"],
                         "aliases": ["traaCenter","stevonnie"] 
                 },
-		"ufo": {
-			"name": "ufo.png",
-			"x": 337,
-			"y": -102,
-			"width": 146,
-			"height": 185,
-			"categories": ["redpixel"],
-			"aliases": ["ufo", "ufomarx"]
-		},
 		"redmenace": {
 			"name": "redmenace.png",
 			"x": -3251,
@@ -86,32 +78,14 @@
 			"categories": ["misc"],
 			"aliases": ["vedic", "vedicsquare"]
 		},
-		"parrot": {
-			"name": "parrot.png",
-			"x": -33,
-			"y": -148,
-			"width": 60,
-			"height": 40,
-			"categories": ["misc"],
-			"aliases": ["parrot"]
-		},
-		"felixart1": {
-			"name": "felixart1.png",
-			"x": -137,
-			"y": -258,
-			"width": 282,
-			"height": 143,
-			"categories": ["misc"],
-			"aliases": ["birds", "butterfly", "phoenix"]
-		},
 		"pixelgrad": {
 			"name": "pixelgrad.png",
 			"x": -900,
 			"y": -1034,
-			"width": 1147,
-			"height": 920,
+			"width": 1383,
+			"height": 1117,
 			"categories": ["redpixel"],
-			"aliases": ["pixelgrad"]
+			"aliases": ["pixelgrad", "center"]
 		},
 		"kuk": {
 			"name": "kuk.png",
@@ -119,7 +93,7 @@
 			"y": 2746,
 			"width": 1576,
 			"height": 1003,
-			"categories": ["misc"],
+			"categories": ["kuk"],
 			"aliases": ["kukistan"]
 		},
 		"traaMainBase": {
@@ -139,15 +113,6 @@
 			"height": 1800,
 			"categories": ["pixeltraa"],
 			"aliases": ["outpost"]
-		},
-		"cntfai": {
-			"name": "cntfai.png",
-			"x": 238,
-			"y": -184,
-			"width": 100,
-			"height": 50,
-			"categories": ["redpixel"],
-			"aliases": ["cnt", "fai"]
 		},
                 "prideFlags": {
 			"name": "prideFlags.png",
@@ -227,7 +192,7 @@
 			"y": 358,
 			"width": 424,
 			"height": 198,
-			"categories": ["misc"],
+			"categories": ["kuk"],
 			"aliases": ["friendship"]
 		}
 	}
