@@ -203,6 +203,15 @@
 			"height": 66,
 			"categories": ["misc"],
 			"aliases": ["H", "poop", "h"]
-		}
+		},
+                "FINESQUIRTLE": {
+                        "name": "FINESQUIRTLE.png",
+                        "x": -1225,
+                        "y": 3352,
+			"width": 44,
+			"height": 34,
+			"categories": ["misc"],
+			"aliases": ["squirtle"]
+                }
 	}
 }
