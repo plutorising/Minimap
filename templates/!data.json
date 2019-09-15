@@ -212,15 +212,6 @@
 			"height": 34,
 			"categories": ["misc"],
 			"aliases": ["squirtle"]
-		},
-		"plustleMinun": {
-                        "name": "plustleMinun.png",
-                        "x": -1940,
-                        "y": 2986,
-			"width": 69,
-			"height": 47,
-			"categories": ["misc"],
-			"aliases": ["plustle", "minun"]
                 }
 	}
 }
