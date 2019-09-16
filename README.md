@@ -23,10 +23,10 @@ When the minimap is installed be sure to check the template categories in settin
 [![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/redmenace.png)](https://pixelcanvas.io/@-1994,3810)
 
 #### Black Base
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/Black%20Base.png)](https://pixelcanvas.io/@5339,4057)
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/blackbase.png)](https://pixelcanvas.io/@5339,4057)
 
 #### rainbow base
-[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/rainbow%20base.png)](https://pixelcanvas.io/@2778,-3533)
+[![](https://raw.githubusercontent.com/plutorising/Minimap/master/templates/rainbowbase.png)](https://pixelcanvas.io/@2778,-3533)
 
 
 
