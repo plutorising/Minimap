@@ -25,7 +25,7 @@
 			"aliases": ["redmenace", "red menace", "bixelgrad"]
 		},
 		"rainbow base": {
-			"name": "rainbow base.png",
+			"name": "rainbowbase.png",
 			"x": 2522,
 			"y": -3700,
 			"width": 511,
@@ -34,7 +34,7 @@
 			"aliases": ["rainbow", "rainbow base", "rb"]
 		},
 		"Black Base": {
-			"name": "Black Base.png",
+			"name": "blackbase.png",
 			"x": 4634,
 			"y": 3738,
 			"width": 1373,
@@ -141,15 +141,6 @@
 			"categories": ["redpixel"],
 			"aliases": ["gp"]
 		},
-		"credits": {
-			"name": "credits.png",
-			"x": -1765,
-			"y": 2774,
-			"width": 251,
-			"height": 230,
-			"categories": ["redpixel"],
-			"aliases": ["credits"]
-		},
 		"touhou": {
 			"name": "touhou.png",
 			"x": -834,
@@ -165,8 +156,8 @@
 			"y": -1019,
 			"width": 212,
 			"height": 126,
-			"categories": ["misc"],
-			"aliases": ["finnish"]
+			"categories": ["redpixel"],
+			"aliases": ["finnish", "afa-flag"]
 		},
 		"rm_america": {
 			"name": "rm_america.png",
@@ -184,7 +175,7 @@
 			"width": 79,
 			"height": 97,
 			"categories": ["redpixel"],
-			"aliases": ["ironcorpse", "iron", "corpse"]
+			"aliases": ["ironcorpse", "iron", "corpse", "heatherheyer"]
 		},
 		"friendship": {
 			"name": "friendship.png",
@@ -193,7 +184,7 @@
 			"width": 490,
 			"height": 201,
 			"categories": ["kuk"],
-			"aliases": ["friendship"]
+			"aliases": ["friendship", "mlp", "ponies", "beach"]
 		},
 		"H": {
 			"name": "H.png",
@@ -202,7 +193,7 @@
 			"width": 106,
 			"height": 66,
 			"categories": ["misc"],
-			"aliases": ["H", "poop", "h"]
+			"aliases": ["H", "poop", "h", "miru"]
 		},
                 "FINESQUIRTLE": {
                         "name": "FINESQUIRTLE.png",
