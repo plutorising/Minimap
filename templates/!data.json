@@ -33,7 +33,7 @@
 			"categories": ["redpixel"],
 			"aliases": ["rainbow", "rainbow base", "rb"]
 		},
-		"Black Base": {
+		"blackbase": {
 			"name": "blackbase.png",
 			"x": 4634,
 			"y": 3738,
